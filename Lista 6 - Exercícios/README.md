@@ -4,5 +4,4 @@ Você foi contratado para desenvolver um aplicativo controlador de estoque para 
 
 Ao se gerar relatórios sobre as informações o aplicativo deve listar os produtos armazenados em ordem alfabética. Seguindo o modelo:
                 Produto                     Quantidade
-        Cartucho de tinta preta                 10
-
+                Carticho de tinta preta         10
