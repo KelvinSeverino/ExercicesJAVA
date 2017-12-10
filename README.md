@@ -65,6 +65,7 @@ Em Progresso...
 
 ## Lista 9
 1. Desenvolva uma aplicação gráfica em Java, para gerar formas retangulares na em uma Janela gráfica. Siga o modelo da imagem abaixo.
+   
    ![alt text](https://github.com/KelvinSeverino/ExercicesPOO/blob/master/Lista%209%20-%20Exerc%C3%ADcios/Forma.PNG)
    
 2. Crie um aplicativo gráfico em Java, que simule o comportamento de uma calculadora simples, com opções de soma, subtração, multiplicação e divisão. O aplicativo desenvolvido deve receber no máximo dois valores numéricos, inseridos pelo usuário e realizar uma das operações de acordo com a vontade do usuário.
