@@ -64,7 +64,10 @@ Em Progresso...
 2. Sua empresa foi contratada para processar dados de uma agência de marketing digital. Você receberá um arquivo de texto contento aproximadamente 50.000,00 emails. Cada email ocupa uma linha do arquivo de texto, sendo que em cada linha além do email estão também algumas informações desnecessárias. Seu objetivo é ler o arquivo e extrair os emails lá contidos. Após isso salve a lista de email em outro arquivo de texto. Seu aplicativo deve informar o inicio e termino do processamento. Por fim, o novo arquivo criado deve ter os emails salvos e organizados de forma que cada email ocupe uma linha do arquivo de texto.
 
 ## Lista 9
-Em Progresso...
+1. Desenvolva uma aplicação gráfica em Java, para gerar formas retangulares na em uma Janela gráfica. Siga o modelo da imagem abaixo.
+   ![alt text](https://github.com/KelvinSeverino/ExercicesPOO/blob/master/Lista%209%20-%20Exerc%C3%ADcios/Forma.PNG)
+   
+2. Crie um aplicativo gráfico em Java, que simule o comportamento de uma calculadora simples, com opções de soma, subtração, multiplicação e divisão. O aplicativo desenvolvido deve receber no máximo dois valores numéricos, inseridos pelo usuário e realizar uma das operações de acordo com a vontade do usuário.
 
 ## Lista 10
 Em Progresso...
