@@ -53,7 +53,7 @@ Utilize as Figuras de 1 à 8 como modelo para o seu desenvolvimento. Você deve 
 
 Ao se gerar relatórios sobre as informações o aplicativo deve listar os produtos armazenados em ordem alfabética. Seguindo o modelo:
 
-         ![alt text](https://github.com/KelvinSeverino/ExercicesPOO/blob/master/Lista%206%20-%20Exerc%C3%ADcios/Quadro.PNG)
+   ![alt text](https://github.com/KelvinSeverino/ExercicesPOO/blob/master/Lista%206%20-%20Exerc%C3%ADcios/Quadro.PNG)
 
 ## Lista 7
 Em Progresso...
