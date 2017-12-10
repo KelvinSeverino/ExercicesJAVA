@@ -53,5 +53,12 @@ Utilize as Figuras de 1 à 8 como modelo para o seu desenvolvimento. Você deve 
 
 Ao se gerar relatórios sobre as informações o aplicativo deve listar os produtos armazenados em ordem alfabética. Seguindo o modelo:
 
-![alt text](https://github.com/KelvinSeverino/ExercicesPOO/blob/master/Lista%206%20-%20Exerc%C3%ADcios/Quadro.PNG)
+         ![alt text](https://github.com/KelvinSeverino/ExercicesPOO/blob/master/Lista%206%20-%20Exerc%C3%ADcios/Quadro.PNG)
 
+## Lista 7
+Em Progresso...
+
+## Lista 8
+1. Desenvolva um aplicativo Java que acesse todos os arquivos contidos no HD do computador, imprima o nome de cada arquivo e também escreva se o arquivo é ou não um diretório.
+
+2. Sua empresa foi contratada para processar dados de uma agência de marketing digital. Você receberá um arquivo de texto contento aproximadamente 50.000,00 emails. Cada email ocupa uma linha do arquivo de texto, sendo que em cada linha além do email estão também algumas informações desnecessárias. Seu objetivo é ler o arquivo e extrair os emails lá contidos. Após isso salve a lista de email em outro arquivo de texto. Seu aplicativo deve informar o inicio e termino do processamento. Por fim, o novo arquivo criado deve ter os emails salvos e organizados de forma que cada email ocupe uma linha do arquivo de texto.
