@@ -1,4 +1,4 @@
-# ExercicesPOO
+# ExercicesJAVA
 Todos os exercícios realizados na Aula de POO na FATEC SJC
 
 # Enunciados das Listas
